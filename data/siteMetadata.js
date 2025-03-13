@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'FrenchRepo Blog',
   author: 'mumu21',
   headerTitle: 'FrenchRepoBlog',
-  description: 'A blog to share the process of french learning and the development of FrenchRepo',
+  description: '记录关于法语学习与 FrenchRepo 网站开发经验和过程的博客',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://frenchrepo.com',
